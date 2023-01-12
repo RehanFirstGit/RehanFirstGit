@@ -1,4 +1,4 @@
-![logo](https://github.com/RehanFirstGit/RehanFirstGit/blob/main/banner_gith.jpg)
+![logo](https://github.com/RehanFirstGit/RehanFirstGit/blob/main/re-BANNER-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Rehan Mondal</h1>
 <h3 align="center">A Software Engineer</h3>
